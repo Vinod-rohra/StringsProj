@@ -11,7 +11,7 @@ public class StringsProgram {
 		String verb = "fart";
 		String noun = "pogo stick";
 		
-		System.out.println("New My " + adjective + " sister accidentally " + verb + " ed all over her new " + noun);
+		System.out.println("XXXX New My " + adjective + " sister accidentally " + verb + " ed all over her new " + noun);
 		
 		
 	}
